@@ -1,4 +1,4 @@
-# Welcome to my *Principal Component Analysis at a Glance* Repo!
+# Paper on Principal Component Analysis
 
 I created this repo to share a final paper I drafted for an undergraduate linear algebra course during Summer 2020. In this paper I:
 
